@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ammar.ali\\source\\repos\\AuthApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FACD2C3C-665E-4F94-9A83-012D2E8AD53A}|AuthApi\\AuthApi.csproj|c:\\users\\ammar.ali\\source\\repos\\authapi\\authapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACD2C3C-665E-4F94-9A83-012D2E8AD53A}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACD2C3C-665E-4F94-9A83-012D2E8AD53A}|AuthApi\\AuthApi.csproj|c:\\users\\ammar.ali\\source\\repos\\authapi\\authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACD2C3C-665E-4F94-9A83-012D2E8AD53A}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACD2C3C-665E-4F94-9A83-012D2E8AD53A}|AuthApi\\AuthApi.csproj|c:\\users\\ammar.ali\\source\\repos\\authapi\\authapi\\helpers\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACD2C3C-665E-4F94-9A83-012D2E8AD53A}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\helpers\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACD2C3C-665E-4F94-9A83-012D2E8AD53A}|AuthApi\\AuthApi.csproj|c:\\users\\ammar.ali\\source\\repos\\authapi\\authapi\\keygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACD2C3C-665E-4F94-9A83-012D2E8AD53A}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\keygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACD2C3C-665E-4F94-9A83-012D2E8AD53A}|AuthApi\\AuthApi.csproj|c:\\users\\ammar.ali\\source\\repos\\authapi\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACD2C3C-665E-4F94-9A83-012D2E8AD53A}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACD2C3C-665E-4F94-9A83-012D2E8AD53A}|AuthApi\\AuthApi.csproj|c:\\users\\ammar.ali\\source\\repos\\authapi\\authapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACD2C3C-665E-4F94-9A83-012D2E8AD53A}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACD2C3C-665E-4F94-9A83-012D2E8AD53A}|AuthApi\\AuthApi.csproj|c:\\users\\ammar.ali\\source\\repos\\authapi\\authapi\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACD2C3C-665E-4F94-9A83-012D2E8AD53A}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeyGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\ammar.ali\\source\\repos\\AuthApi\\AuthApi\\KeyGenerator.cs",
+              "RelativeDocumentMoniker": "AuthApi\\KeyGenerator.cs",
+              "ToolTip": "C:\\Users\\ammar.ali\\source\\repos\\AuthApi\\AuthApi\\KeyGenerator.cs",
+              "RelativeToolTip": "AuthApi\\KeyGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:36:43.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ammar.ali\\source\\repos\\AuthApi\\AuthApi\\Program.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ammar.ali\\source\\repos\\AuthApi\\AuthApi\\Program.cs",
+              "RelativeToolTip": "AuthApi\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:10:47.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ammar.ali\\source\\repos\\AuthApi\\AuthApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ammar.ali\\source\\repos\\AuthApi\\AuthApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:12:57.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\ammar.ali\\source\\repos\\AuthApi\\AuthApi\\Helpers\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Helpers\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\ammar.ali\\source\\repos\\AuthApi\\AuthApi\\Helpers\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "AuthApi\\Helpers\\JwtTokenGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:11:06.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ammar.ali\\source\\repos\\AuthApi\\AuthApi\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ammar.ali\\source\\repos\\AuthApi\\AuthApi\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "AuthApi\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:09:43.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ammar.ali\\source\\repos\\AuthApi\\AuthApi\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\ammar.ali\\source\\repos\\AuthApi\\AuthApi\\Models\\UserLogin.cs",
+              "RelativeToolTip": "AuthApi\\Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:08:58.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ammar.ali\\source\\repos\\AuthApi\\AuthApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ammar.ali\\source\\repos\\AuthApi\\AuthApi\\Models\\User.cs",
+              "RelativeToolTip": "AuthApi\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:08:30.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
