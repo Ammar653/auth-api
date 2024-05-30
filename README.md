@@ -37,7 +37,7 @@ POST /auth/login
 This endpoint allows users to log in and receive a JWT token if their credentials are valid.
 
 **Request**
-URL: https://localhost:5001/auth/login
+URL: https://localhost:7275/auth/login
 Method: POST
 Headers: Content-Type: application/json
 **Body:**
